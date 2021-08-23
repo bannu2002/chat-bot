@@ -14,5 +14,5 @@ Chatbots are programs that simulate normal human-like conversations via text mes
 
 **About the project:**
 
-I have built a chatbot using Natural Language Processing (NLP) and deeplearning frameworks like tensorflow. This is a restaurant chatbot which answers questions related to a typical restaurant like working hours, types of products and several others. We can make it even more comparable to real life situations by including more questions and responses to the dataset. 
+I have built a chatbot using Natural Language Processing (NLP) and deeplearning frameworks like tensorflow. This is a restaurant chatbot which answers questions related to a typical restaurant like working hours, items available and several others. We can make it even more comparable to real life situations by including more questions and responses to the dataset. 
 
